@@ -1,0 +1,2 @@
+# blog
+bloc with jHipster
